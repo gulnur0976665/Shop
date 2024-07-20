@@ -12,6 +12,9 @@ a {
   margin: 0 auto;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 .star {
   clip-path: polygon(
     50% 0%,
@@ -30,6 +33,6 @@ a {
   background: rgb(255, 200, 0);
 }
 
-/* body{
-  background: rgba(93, 3, 101, 0.441);
+/* b{
+  color: rgb(83, 3, 157);
 } */
